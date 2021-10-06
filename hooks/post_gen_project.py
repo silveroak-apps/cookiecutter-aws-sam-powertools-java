@@ -1,5 +1,3 @@
-import pkg_resources
-pkg_resources.require("cookiecutter==`1.7.3") 
 from __future__ import print_function
 from cookiecutter.main import cookiecutter
 
