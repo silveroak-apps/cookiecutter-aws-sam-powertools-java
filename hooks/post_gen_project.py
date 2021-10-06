@@ -1,5 +1,5 @@
 from __future__ import print_function
-from cookiecutter.main import cookiecutter
+from cookiecutter.main version 1.7.3 import cookiecutter
 
 import os
 import shutil
