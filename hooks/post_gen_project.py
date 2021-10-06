@@ -1,5 +1,7 @@
+import pkg_resources
+pkg_resources.require("cookiecutter==`1.7.3") 
 from __future__ import print_function
-from cookiecutter.main version 1.7.3 import cookiecutter
+from cookiecutter.main import cookiecutter
 
 import os
 import shutil
